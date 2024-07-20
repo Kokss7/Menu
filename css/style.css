@@ -1,0 +1,10 @@
+body{
+    background-color: lightgray;
+}
+img{
+    height: 200px !important;
+}
+ul li{
+    cursor: pointer;
+    font-size: 32px;
+}
